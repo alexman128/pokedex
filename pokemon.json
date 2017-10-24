@@ -1,0 +1,27 @@
+pokemones = [
+  {
+    "id": "001",
+    "name": "pikachu",
+    "photo": "pika.png",
+    "type": "fire"
+  },
+  {
+    "id": "009",
+    "name": "Mewtwo",
+    "photo": "mew2.jpg",
+    "type": "psych"
+  },
+  {
+    "id": "003",
+    "name": "pokenieto",
+    "photo": "pokenieto.jpg",
+    "type": "magician"
+  },
+  {
+    "id": "004",
+    "name": "squirtle",
+    "photo": "vamoacalmarno.png",
+    "type": "water"
+  }
+
+];
